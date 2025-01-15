@@ -1,4 +1,4 @@
-# Pharmacy Logistics Optimization: Reducing Delivery Time to 30 Minutes.
+# Pharmacy Logistics Optimization : Achieving 30-Minutes Delivery.
 
 Problem Statement:
 The current delivery time averages 1 hour, which impacts customer satisfaction and reduces market competitiveness. This project aims to address these challenges by identifying bottlenecks and inefficiencies in the delivery process and suggesting practical strategies to achieve a 30-minute delivery time.
