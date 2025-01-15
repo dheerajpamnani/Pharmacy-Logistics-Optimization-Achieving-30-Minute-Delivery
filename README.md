@@ -19,14 +19,14 @@ Key Features:
 	Tools Used:
         •	 Excel: Data analysis and visualizations.
 
-Datasets:
+       Datasets:
 	•	Order Data: Timestamps for order placement, shipment, out-for-delivery, and final delivery.
 	•	Breach Information: Details on on-time vs breached orders.
 	•	Geographical Data: Source centers and customer pin codes.
 	•	Payment Methods: Insights into cash-on-delivery (COD) and online payments.
 
-Outcomes:
-        By implementing these strategies, the project aims to:
+      Outcomes:
+         By implementing these strategies, the project aims to:
 	•	Reduce delivery breaches by 40%.
 	•	Improve operational efficiency and customer satisfaction.
 	•	Achieve sustainable 30-minute delivery operations through dynamic resource allocation and technology integration.
