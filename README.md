@@ -1,32 +1,20 @@
-# Pharmacy Logistics Optimization: Achieving 30-Minute Delivery
+# Pharmacy Logistics Optimization: Reducing Delivery Time to 30 Minutes.
 
-This project focuses on identifying and optimizing key areas in pharmacy logistics operations to reduce the average delivery time from 1 hour to 30 minutes.
+Problem Statement:
+The current delivery time averages 1 hour, which impacts customer satisfaction and reduces market competitiveness. This project aims to address these challenges by identifying bottlenecks and inefficiencies in the delivery process and suggesting practical strategies to achieve a 30-minute delivery time.
 
-  Bsiness Problem:
+Project Highlights
 
-Current logistics performance metrics reveal an average delivery time of 1 hour, which impacts customer satisfaction and competitiveness in the market. To enhance service delivery and meet customer expectations, this initiative aims to develop actionable solutions for achieving a 30-minute delivery target.
+Data Analysis:
+•	Used Excel to review delivery trends, breach rates, and performance metrics through pivot tables and charts.
+•	Identified inefficiencies and delays in operations, particularly at specific source locations.
 
-Key Features:
-	Data Analysis:
-	•	Leveraged Excel to analyze delivery trends, breach rates, and performance metrics using pivot tables.
-	•	Identified bottlenecks and inefficiencies in delivery processes at specific source centers.
- 
-       Insights & Recommendations:
-	•	Found 40.23% of orders are likely to breach the 30-minute target.
-	•	Suggested dynamic manpower allocation during peak hours and the integration of route optimization software.
-	•	Recommended express delivery hubs and scaling operational best practices.
- 
-	Tools Used:
-        •	 Excel: Data analysis and visualizations.
+Insights and Recommendations:
+•	Key Findings: Approximately 40.23% of orders exceed the 30-minute target.
+•	Resource Allocation: Proposed adjusting staff levels during peak hours to handle high demand effectively.
+•	Technology Integration: Recommended using route optimization software to shorten travel times.
+•	Express Hubs: Suggested setting up dedicated hubs for faster processing of urgent deliveries.
+•	Standardization: Advised replicating successful practices across all operational centers for consistent results.
 
-       Datasets:
-	•	Order Data: Timestamps for order placement, shipment, out-for-delivery, and final delivery.
-	•	Breach Information: Details on on-time vs breached orders.
-	•	Geographical Data: Source centers and customer pin codes.
-	•	Payment Methods: Insights into cash-on-delivery (COD) and online payments.
-
-      Outcomes:
-         By implementing these strategies, the project aims to:
-	•	Reduce delivery breaches by 40%.
-	•	Improve operational efficiency and customer satisfaction.
-	•	Achieve sustainable 30-minute delivery operations through dynamic resource allocation and technology integration.
+Tools Used:
+•	Excel: Performed data analysis, identified trends, and created visuals to support findings and recommendations.
