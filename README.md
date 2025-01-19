@@ -6,15 +6,15 @@ The current delivery time averages 1 hour, which impacts customer satisfaction a
 Project Highlights
 
 Data Analysis:
-•	Used Excel to review delivery trends, breach rates, and performance metrics through pivot tables and charts.
-•	Identified inefficiencies and delays in operations, particularly at specific source locations.
+1.	Used Excel to review delivery trends, breach rates, and performance metrics through pivot tables and charts.
+2.	Identified inefficiencies and delays in operations, particularly at specific source locations.
 
 Insights and Recommendations:
-•	Key Findings: Approximately 40.23% of orders exceed the 30-minute target.
-•	Resource Allocation: Proposed adjusting staff levels during peak hours to handle high demand effectively.
-•	Technology Integration: Recommended using route optimization software to shorten travel times.
-•	Express Hubs: Suggested setting up dedicated hubs for faster processing of urgent deliveries.
-•	Standardization: Advised replicating successful practices across all operational centers for consistent results.
+1.	Key Findings: Approximately 40.23% of orders exceed the 30-minute target.
+2.	Resource Allocation: Proposed adjusting staff levels during peak hours to handle high demand effectively.
+3.	Technology Integration: Recommended using route optimization software to shorten travel times.
+4.	Express Hubs: Suggested setting up dedicated hubs for faster processing of urgent deliveries.
+5.	Standardization: Advised replicating successful practices across all operational centers for consistent results.
 
 Tools Used:
-•	Excel: Performed data analysis, identified trends, and created visuals to support findings and recommendations.
+1. Excel: Performed data analysis, identified trends, and created visuals to support findings and recommendations.
